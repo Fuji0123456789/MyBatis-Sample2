@@ -5,7 +5,7 @@
 MyBatisのSQL文をXMLファイルに配置してみた   
 https://www.purin-it.com/spring-boot-mybatis-xml
 
--- USER_DATAテーブルの作成
+-- USER_DATAテーブルの作成   
   CREATE TABLE "TEST"."USER_DATA"  (
   	"ID" NUMBER(6,0) NOT NULL ENABLE,  
 	"NAME" VARCHAR2(40 BYTE) NOT NULL ENABLE,  
